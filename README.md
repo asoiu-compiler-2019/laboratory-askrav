@@ -33,8 +33,8 @@ Parse Scene number
 
 ### Installation
 
-Shakespeare Compiler requires [Swift 4.2](https://swift.org/download/) and [GCC](http://gcc.gnu.org) to run.
-Clone the project and put you `hello_world.txt` file into the **root** directory
+Shakespeare Compiler requires [Swift 4.2](https://swift.org/download/) and [GCC](http://gcc.gnu.org) to run. <br>
+Clone the project and put you `hello_world.txt` file into the **root** directory. <br>
 Then simply run:
 
 ```sh
